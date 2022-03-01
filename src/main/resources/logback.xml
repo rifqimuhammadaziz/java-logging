@@ -1,0 +1,12 @@
+<configuration>
+
+    <logger name="rifqimuhammadaziz.logging.LevelTest" level="trace"></logger>
+
+    <root level="debug">
+        <appender class="ch.qos.logback.core.ConsoleAppender">
+            <encoder>
+                <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+            </encoder>
+        </appender>
+    </root>
+</configuration>
