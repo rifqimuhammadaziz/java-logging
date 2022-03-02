@@ -10,3 +10,8 @@
 10:49:01.940 [main] INFO  rifqimuhammadaziz.logging.LevelTest - Info
 10:49:01.941 [main] WARN  rifqimuhammadaziz.logging.LevelTest - Warn
 10:49:01.941 [main] ERROR rifqimuhammadaziz.logging.LevelTest - Error
+2022-03-02 10:57:05.672 [main] TRACE rifqimuhammadaziz.logging.LevelTest - Trace
+2022-03-02 10:57:05.674 [main] DEBUG rifqimuhammadaziz.logging.LevelTest - Debug
+2022-03-02 10:57:05.675 [main] INFO  rifqimuhammadaziz.logging.LevelTest - Info
+2022-03-02 10:57:05.676 [main] WARN  rifqimuhammadaziz.logging.LevelTest - Warn
+2022-03-02 10:57:05.677 [main] ERROR rifqimuhammadaziz.logging.LevelTest - Error
