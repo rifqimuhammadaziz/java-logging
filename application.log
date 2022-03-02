@@ -1,0 +1,12 @@
+10:31:56.055 [main] TRACE rifqimuhammadaziz.logging.LevelTest - Trace
+10:31:56.058 [main] DEBUG rifqimuhammadaziz.logging.LevelTest - Debug
+10:31:56.058 [main] INFO  rifqimuhammadaziz.logging.LevelTest - Info
+10:31:56.058 [main] WARN  rifqimuhammadaziz.logging.LevelTest - Warn
+10:31:56.059 [main] ERROR rifqimuhammadaziz.logging.LevelTest - Error
+10:32:16.458 [main] INFO  rifqimuhammadaziz.logging.MainTest - Hello testing log.
+10:32:16.461 [main] INFO  rifqimuhammadaziz.logging.MainTest - Learning java logging
+10:49:01.938 [main] TRACE rifqimuhammadaziz.logging.LevelTest - Trace
+10:49:01.940 [main] DEBUG rifqimuhammadaziz.logging.LevelTest - Debug
+10:49:01.940 [main] INFO  rifqimuhammadaziz.logging.LevelTest - Info
+10:49:01.941 [main] WARN  rifqimuhammadaziz.logging.LevelTest - Warn
+10:49:01.941 [main] ERROR rifqimuhammadaziz.logging.LevelTest - Error
