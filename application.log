@@ -15,3 +15,78 @@
 2022-03-02 10:57:05.675 [main] INFO  rifqimuhammadaziz.logging.LevelTest - Info
 2022-03-02 10:57:05.676 [main] WARN  rifqimuhammadaziz.logging.LevelTest - Warn
 2022-03-02 10:57:05.677 [main] ERROR rifqimuhammadaziz.logging.LevelTest - Error
+2022-03-02 11:16:09.358 [main] INFO  r.logging.MyController - 55db62eb-380a-41c7-9cf2-dbfeacfe0ebf - Controller Save
+2022-03-02 11:16:09.370 [main] INFO  rifqimuhammadaziz.logging.MyService - 55db62eb-380a-41c7-9cf2-dbfeacfe0ebf - Service Save
+2022-03-02 11:16:09.370 [main] INFO  r.logging.MyRepository - 55db62eb-380a-41c7-9cf2-dbfeacfe0ebf - Repository Save
+2022-03-02 11:19:49.122 [main] INFO  r.logging.MyController - [] - 3cc61cef-a3a2-456a-b72a-f448fa2e3f4a - Controller Save
+2022-03-02 11:19:49.126 [main] INFO  rifqimuhammadaziz.logging.MyService - [] - 3cc61cef-a3a2-456a-b72a-f448fa2e3f4a - Service Save
+2022-03-02 11:19:49.126 [main] INFO  r.logging.MyRepository - [] - 3cc61cef-a3a2-456a-b72a-f448fa2e3f4a - Repository Save
+2022-03-02 11:20:53.810 [main] INFO  r.logging.MyController - [11a44fbe-8576-44ba-9b9f-254d517f684d] - 11a44fbe-8576-44ba-9b9f-254d517f684d - Controller Save
+2022-03-02 11:20:53.812 [main] INFO  rifqimuhammadaziz.logging.MyService - [11a44fbe-8576-44ba-9b9f-254d517f684d] - 11a44fbe-8576-44ba-9b9f-254d517f684d - Service Save
+2022-03-02 11:20:53.812 [main] INFO  r.logging.MyRepository - [11a44fbe-8576-44ba-9b9f-254d517f684d] - 11a44fbe-8576-44ba-9b9f-254d517f684d - Repository Save
+2022-03-02 11:22:14.358 [main] INFO  r.logging.MyController - [f4d5bc26-1c5b-4d47-b79c-e0ebc2a19d71] - Controller Save
+2022-03-02 11:22:14.359 [main] INFO  rifqimuhammadaziz.logging.MyService - [f4d5bc26-1c5b-4d47-b79c-e0ebc2a19d71] - Service Save
+2022-03-02 11:22:14.359 [main] INFO  r.logging.MyRepository - [f4d5bc26-1c5b-4d47-b79c-e0ebc2a19d71] - Repository Save
+2022-03-02 11:29:59.410 [Thread-0] INFO  r.logging.MyController - [] - Controller Save
+2022-03-02 11:29:59.411 [Thread-0] INFO  rifqimuhammadaziz.logging.MyService - [] - Service Save
+2022-03-02 11:29:59.411 [Thread-0] INFO  r.logging.MyRepository - [] - Repository Save
+2022-03-02 11:34:52.102 [Thread-0] INFO  r.logging.MyController - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Controller Save
+2022-03-02 11:34:52.101 [Thread-7] INFO  r.logging.MyController - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Controller Save
+2022-03-02 11:34:52.103 [Thread-0] INFO  rifqimuhammadaziz.logging.MyService - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Service Save
+2022-03-02 11:34:52.103 [Thread-0] INFO  r.logging.MyRepository - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Repository Save
+2022-03-02 11:34:52.103 [Thread-7] INFO  rifqimuhammadaziz.logging.MyService - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Service Save
+2022-03-02 11:34:52.102 [Thread-4] INFO  r.logging.MyController - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Controller Save
+2022-03-02 11:34:52.103 [Thread-7] INFO  r.logging.MyRepository - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Repository Save
+2022-03-02 11:34:52.103 [Thread-4] INFO  rifqimuhammadaziz.logging.MyService - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Service Save
+2022-03-02 11:34:52.102 [Thread-8] INFO  r.logging.MyController - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Controller Save
+2022-03-02 11:34:52.104 [Thread-8] INFO  rifqimuhammadaziz.logging.MyService - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Service Save
+2022-03-02 11:34:52.102 [Thread-3] INFO  r.logging.MyController - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Controller Save
+2022-03-02 11:34:52.104 [Thread-8] INFO  r.logging.MyRepository - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Repository Save
+2022-03-02 11:34:52.104 [Thread-4] INFO  r.logging.MyRepository - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Repository Save
+2022-03-02 11:34:52.104 [Thread-3] INFO  rifqimuhammadaziz.logging.MyService - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Service Save
+2022-03-02 11:34:52.104 [Thread-3] INFO  r.logging.MyRepository - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Repository Save
+2022-03-02 11:34:52.101 [Thread-2] INFO  r.logging.MyController - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Controller Save
+2022-03-02 11:34:52.104 [Thread-2] INFO  rifqimuhammadaziz.logging.MyService - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Service Save
+2022-03-02 11:34:52.101 [Thread-1] INFO  r.logging.MyController - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Controller Save
+2022-03-02 11:34:52.102 [Thread-6] INFO  r.logging.MyController - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Controller Save
+2022-03-02 11:34:52.106 [Thread-1] INFO  rifqimuhammadaziz.logging.MyService - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Service Save
+2022-03-02 11:34:52.105 [Thread-2] INFO  r.logging.MyRepository - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Repository Save
+2022-03-02 11:34:52.102 [Thread-5] INFO  r.logging.MyController - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Controller Save
+2022-03-02 11:34:52.102 [Thread-9] INFO  r.logging.MyController - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Controller Save
+2022-03-02 11:34:52.107 [Thread-5] INFO  rifqimuhammadaziz.logging.MyService - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Service Save
+2022-03-02 11:34:52.106 [Thread-1] INFO  r.logging.MyRepository - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Repository Save
+2022-03-02 11:34:52.106 [Thread-6] INFO  rifqimuhammadaziz.logging.MyService - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Service Save
+2022-03-02 11:34:52.107 [Thread-5] INFO  r.logging.MyRepository - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Repository Save
+2022-03-02 11:34:52.107 [Thread-9] INFO  rifqimuhammadaziz.logging.MyService - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Service Save
+2022-03-02 11:34:52.107 [Thread-6] INFO  r.logging.MyRepository - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Repository Save
+2022-03-02 11:34:52.107 [Thread-9] INFO  r.logging.MyRepository - [a5ed2b72-caeb-466e-8405-ceb632175b86] - Repository Save
+2022-03-02 11:35:29.520 [Thread-4] INFO  r.logging.MyController - [35aad25a-e2e3-4891-9544-40964ff48c98] - Controller Save
+2022-03-02 11:35:29.519 [Thread-5] INFO  r.logging.MyController - [e324a93a-c978-43fe-86b5-520a48f3071d] - Controller Save
+2022-03-02 11:35:29.519 [Thread-1] INFO  r.logging.MyController - [f5c91f13-6c76-4de8-9bc3-ec80b73bcee8] - Controller Save
+2022-03-02 11:35:29.520 [Thread-8] INFO  r.logging.MyController - [178e9c19-1808-40e3-862a-8a357e2918e3] - Controller Save
+2022-03-02 11:35:29.521 [Thread-1] INFO  rifqimuhammadaziz.logging.MyService - [f5c91f13-6c76-4de8-9bc3-ec80b73bcee8] - Service Save
+2022-03-02 11:35:29.520 [Thread-0] INFO  r.logging.MyController - [8608409c-a6f1-46d0-abd9-3de5d46496cb] - Controller Save
+2022-03-02 11:35:29.521 [Thread-8] INFO  rifqimuhammadaziz.logging.MyService - [178e9c19-1808-40e3-862a-8a357e2918e3] - Service Save
+2022-03-02 11:35:29.520 [Thread-9] INFO  r.logging.MyController - [62d1ebf2-b999-44b1-a87a-d0e672586976] - Controller Save
+2022-03-02 11:35:29.522 [Thread-9] INFO  rifqimuhammadaziz.logging.MyService - [62d1ebf2-b999-44b1-a87a-d0e672586976] - Service Save
+2022-03-02 11:35:29.522 [Thread-8] INFO  r.logging.MyRepository - [178e9c19-1808-40e3-862a-8a357e2918e3] - Repository Save
+2022-03-02 11:35:29.522 [Thread-0] INFO  rifqimuhammadaziz.logging.MyService - [8608409c-a6f1-46d0-abd9-3de5d46496cb] - Service Save
+2022-03-02 11:35:29.521 [Thread-5] INFO  rifqimuhammadaziz.logging.MyService - [e324a93a-c978-43fe-86b5-520a48f3071d] - Service Save
+2022-03-02 11:35:29.519 [Thread-7] INFO  r.logging.MyController - [3c2ce811-333e-4625-8418-70a2c574258d] - Controller Save
+2022-03-02 11:35:29.522 [Thread-0] INFO  r.logging.MyRepository - [8608409c-a6f1-46d0-abd9-3de5d46496cb] - Repository Save
+2022-03-02 11:35:29.522 [Thread-9] INFO  r.logging.MyRepository - [62d1ebf2-b999-44b1-a87a-d0e672586976] - Repository Save
+2022-03-02 11:35:29.522 [Thread-5] INFO  r.logging.MyRepository - [e324a93a-c978-43fe-86b5-520a48f3071d] - Repository Save
+2022-03-02 11:35:29.521 [Thread-1] INFO  r.logging.MyRepository - [f5c91f13-6c76-4de8-9bc3-ec80b73bcee8] - Repository Save
+2022-03-02 11:35:29.519 [Thread-2] INFO  r.logging.MyController - [2cdaf916-cdb5-4281-86b1-2057a3a8c65f] - Controller Save
+2022-03-02 11:35:29.519 [Thread-6] INFO  r.logging.MyController - [1458b16a-df74-4fda-b356-68bdfdf07a0f] - Controller Save
+2022-03-02 11:35:29.521 [Thread-4] INFO  rifqimuhammadaziz.logging.MyService - [35aad25a-e2e3-4891-9544-40964ff48c98] - Service Save
+2022-03-02 11:35:29.520 [Thread-3] INFO  r.logging.MyController - [73a1a01e-d4a8-465d-b870-0c502031b516] - Controller Save
+2022-03-02 11:35:29.523 [Thread-4] INFO  r.logging.MyRepository - [35aad25a-e2e3-4891-9544-40964ff48c98] - Repository Save
+2022-03-02 11:35:29.523 [Thread-3] INFO  rifqimuhammadaziz.logging.MyService - [73a1a01e-d4a8-465d-b870-0c502031b516] - Service Save
+2022-03-02 11:35:29.522 [Thread-7] INFO  rifqimuhammadaziz.logging.MyService - [3c2ce811-333e-4625-8418-70a2c574258d] - Service Save
+2022-03-02 11:35:29.523 [Thread-3] INFO  r.logging.MyRepository - [73a1a01e-d4a8-465d-b870-0c502031b516] - Repository Save
+2022-03-02 11:35:29.523 [Thread-6] INFO  rifqimuhammadaziz.logging.MyService - [1458b16a-df74-4fda-b356-68bdfdf07a0f] - Service Save
+2022-03-02 11:35:29.523 [Thread-7] INFO  r.logging.MyRepository - [3c2ce811-333e-4625-8418-70a2c574258d] - Repository Save
+2022-03-02 11:35:29.523 [Thread-2] INFO  rifqimuhammadaziz.logging.MyService - [2cdaf916-cdb5-4281-86b1-2057a3a8c65f] - Service Save
+2022-03-02 11:35:29.523 [Thread-2] INFO  r.logging.MyRepository - [2cdaf916-cdb5-4281-86b1-2057a3a8c65f] - Repository Save
+2022-03-02 11:35:29.523 [Thread-6] INFO  r.logging.MyRepository - [1458b16a-df74-4fda-b356-68bdfdf07a0f] - Repository Save
